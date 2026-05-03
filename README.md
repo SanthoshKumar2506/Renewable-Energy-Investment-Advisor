@@ -26,15 +26,15 @@ The project proposes an Excel-based optimization and decision-support model that
 
 ##  Analytical Framework
 
-![Sub Objectives](images/subobjectives.png)
+![Sub Objectives](images/SubObjectives.png)
 
 ##  Data Context
 
-![Plan 2050](images/plan2050.png)
+![Plan 2050](images/Plan2050.png)
 
 ##  Investment Insight
 
-![Payback](images/payback.png)
+![Payback](images/Payback.png)
 
 ##  Tools Used
 - Excel
