@@ -9,7 +9,7 @@ The goal is to support better capital allocation by identifying investment portf
 
 ##  Purpose
 
-![Purpose](images/purpose.png)
+![Purpose](images/Purpose.png)
 
 ##  Business Problem
 Northeastern invests across multiple energy levers, but without a unified framework to compare financial performance, energy impact, and environmental benefits. This creates uncertainty, inconsistent evaluation, and risk of inefficient capital allocation.
